@@ -12,7 +12,7 @@ Typical inputs: a product document, a patent or technology list, market notes, a
 ## Non-negotiable outcomes
 
 - Every claim traces to the user's source material or an explicit assumption. Targets, current traction, and deprecated figures are visibly separated and never merged.
-- Body copy uses complete Chinese sentences a presenter could read aloud. Keyword strings and slogan fragments are not explanations.
+- Body copy follows [references/copy-rules.md](references/copy-rules.md): complete Chinese sentences a presenter could read aloud, the five-step argument chain (problem, existing products, their pricing, the gap, then the product thesis), and three-tier fact labeling (current / in progress / target). Keyword strings and slogan fragments are not explanations.
 - Each page carries a four-character section title plus a one-line page subtitle, applied identically on every content page.
 - Images are large enough to carry the page (roughly 60–70% of evidence-heavy pages) but contain no readable text, logos, or fake data; all typography is native.
 - Every page is rendered and inspected at presentation resolution before delivery, not only inside the editor.
@@ -23,7 +23,7 @@ Typical inputs: a product document, a patent or technology list, market notes, a
 
 2. **Write the narrative before any visuals.** State the product in one repeatable sentence, then lay out the page order using the sequence in [references/content-playbook.md](references/content-playbook.md): problem discovery, existing products and their pricing, the gap, the product thesis, forms, interaction, payoff, core technologies, business, partners, team, future. Adjust the order only when the user's logic requires it.
 
-3. **Write complete slide copy before designing.** Follow the page-level rules and Chinese copy standards in the content playbook. For each core technology, write what it is and which failure it prevents — one or two sentences each, not a paragraph of architecture terms.
+3. **Write complete slide copy before designing.** Follow the page-level rules in the content playbook and the detailed Chinese copy standards in [references/copy-rules.md](references/copy-rules.md). For each core technology, write only what it is and which failure it prevents — one or two sentences each, not a paragraph of architecture terms.
 
 4. **Apply the deck-wide header system.** On every content page: four-character section title in the primary color, a short accent bar, the page subtitle in muted text, then a hairline divider. The logo sits at the same coordinates top-right; page number and source note share one footer baseline. The cover and closing pages may deviate deliberately.
 
@@ -49,7 +49,8 @@ When the user revises a delivered deck, act at the owning layer:
 
 ## Reference routing
 
-- [references/content-playbook.md](references/content-playbook.md) — source ledger, one-sentence positioning, narrative architecture, page copy rules, product/technology/business writing, Chinese copy standards.
+- [references/content-playbook.md](references/content-playbook.md) — source ledger, one-sentence positioning, narrative architecture, page copy rules, product/technology/business writing.
+- [references/copy-rules.md](references/copy-rules.md) — detailed Chinese copy standards: complete-sentence rule, argument chain, fact tiers, number style, team credits, technology pages, line breaking, banned words, read-aloud acceptance.
 - [references/visual-and-image-system.md](references/visual-and-image-system.md) — palette, image-first page patterns, prompt formula, image families, data visualization, editable-slide rules, generation access.
 - [references/qa-checklist.md](references/qa-checklist.md) — fact pass, image-batch pass, rendered-slide pass, delivery pass.
 
