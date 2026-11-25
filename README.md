@@ -27,7 +27,8 @@ product-ppt/
 ├── SKILL.md                          # 主工作流
 ├── agents/openai.yaml                # 界面元数据
 ├── references/
-│   ├── content-playbook.md           # 叙事架构与中文文案规则
+│   ├── content-playbook.md           # 叙事架构与各板块写法
+│   ├── copy-rules.md                 # 中文文案细则：完整句、论证链、事实分层、数字口径
 │   ├── visual-and-image-system.md    # 视觉体系与生图提示词公式
 │   └── qa-checklist.md               # 事实/图片/渲染/交付四重验收
 └── scripts/
