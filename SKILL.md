@@ -13,6 +13,7 @@ Typical inputs: a product document, a patent or technology list, market notes, a
 
 - Every claim traces to the user's source material or an explicit assumption. Targets, current traction, and deprecated figures are visibly separated and never merged.
 - Body copy follows [references/copy-rules.md](references/copy-rules.md): complete Chinese sentences a presenter could read aloud, the five-step argument chain (problem, existing products, their pricing, the gap, then the product thesis), and three-tier fact labeling (current / in progress / target). Keyword strings and slogan fragments are not explanations.
+- No redundant explanation: every sentence adds new information. Fact tiers are carried by wording ('计划', '目标', '尚未', '暂未'), never by a trailing sentence that re-explains what the previous sentence, the title, or the visual already said.
 - Each page carries a four-character section title plus a one-line page subtitle, applied identically on every content page.
 - Images are large enough to carry the page (roughly 60–70% of evidence-heavy pages) but contain no readable text, logos, or fake data; all typography is native.
 - Every page is rendered and inspected at presentation resolution before delivery, not only inside the editor.
