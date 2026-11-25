@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品路演 PPT"
+  short_description: "将资料整理为图像主导、文字可编辑的中文产品/项目路演 PPT，并完成事实与视觉验收"
+  default_prompt: "Use $product-ppt to turn my source materials into an image-led, editable Chinese product pitch deck with coherent visuals and verified claims."
