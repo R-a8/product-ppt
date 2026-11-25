@@ -8,7 +8,7 @@
 - Page-level content rules
 - Product and technology writing
 - Business, partner, and future writing
-- Chinese copy standards
+- Chinese copy standards (detailed rules in copy-rules.md)
 
 ## Source discipline
 
@@ -148,9 +148,4 @@ Future and social-value slides may be ambitious, but say “goal,” “hope,”
 
 ## Chinese copy standards
 
-- Write complete sentences. A phrase such as “过程感知—证据链—智能体” is a label, not an explanation.
-- Reduce nested abstractions. Replace “多源异构协同赋能” with a concrete actor, action, and result.
-- Use parallelism sparingly. Three balanced slogans in a row usually make the slide feel generated.
-- Remove empty transitions such as “综上所述”“值得注意的是”“不仅……而且……” when they do not add logic.
-- Keep English technical terms only where the user or domain genuinely uses them.
-- Read the slide aloud. If it cannot be said naturally in a presentation, rewrite it.
+All slide copy follows [copy-rules.md](copy-rules.md): complete sentences, the five-step argument chain (problem, existing products, their pricing, the gap, then the product thesis), three-tier fact labeling (current / in progress / target), priced numbers with their assumptions, colon-style team credits, two-question technology pages, manual line breaks, the banned-word list, and the read-aloud acceptance tests. Write copy first, design second; never let layout shrink text to fit.
